@@ -1,0 +1,38 @@
+
+header {
+  text-align: center;
+  padding: 5px;
+  
+}
+
+body {
+  line-height: 1;
+  margin: 4%;
+  }
+
+section {
+  width: 30%;
+  display: inline-block;
+  float: left;
+  margin-center: 25%;
+}
+footer {
+  clear-both: 20%;
+}
+img {
+  width: 125px;
+}
+ol {
+  list-style-type: upper-roman;
+}
+ul {
+  list-style-type: square;
+}
+header, footer {
+  background:#666666;
+}
+nav a {
+  width: 22%;
+  display: inline-block;
+  background: #FFFFFF;
+}
